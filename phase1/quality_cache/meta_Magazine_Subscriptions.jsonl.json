@@ -1,1 +1,0 @@
-{"filename": "meta_Magazine_Subscriptions.jsonl", "length": 3391, "errors": {"price:wrong_type": 1}, "examples": {"price:wrong_type": [{"row": 1569, "value": "—"}]}}
