@@ -1,0 +1,1 @@
+{"filename": "meta_Electronics.jsonl", "length": 1610012, "errors": {"price:wrong_type": 316}, "examples": {"price:wrong_type": [{"row": 67720, "value": "—"}, {"row": 70970, "value": "—"}, {"row": 80617, "value": "from 32.95"}, {"row": 91212, "value": "—"}, {"row": 98393, "value": "—"}]}}

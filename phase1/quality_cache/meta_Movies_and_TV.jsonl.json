@@ -1,0 +1,1 @@
+{"filename": "meta_Movies_and_TV.jsonl", "length": 748224, "errors": {"price:wrong_type": 98}, "examples": {"price:wrong_type": [{"row": 35594, "value": "—"}, {"row": 37437, "value": "from 2.99"}, {"row": 63151, "value": "—"}, {"row": 94516, "value": "from 49.95"}, {"row": 95971, "value": "from 4.99"}]}}

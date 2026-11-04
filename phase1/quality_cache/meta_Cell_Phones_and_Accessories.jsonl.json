@@ -1,0 +1,1 @@
+{"filename": "meta_Cell_Phones_and_Accessories.jsonl", "length": 1288490, "errors": {"price:wrong_type": 1861}, "examples": {"price:wrong_type": [{"row": 53584, "value": "—"}, {"row": 54696, "value": "—"}, {"row": 55151, "value": "—"}, {"row": 55882, "value": "—"}, {"row": 56871, "value": "—"}]}}

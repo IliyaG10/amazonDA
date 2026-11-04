@@ -1,0 +1,32 @@
+filename,error_type,row_number,value
+meta_CDs_and_Vinyl.jsonl,price:wrong_type,27355,from 14.99
+meta_CDs_and_Vinyl.jsonl,price:wrong_type,27566,from 11.90
+meta_CDs_and_Vinyl.jsonl,price:wrong_type,30701,from 5.99
+meta_CDs_and_Vinyl.jsonl,price:wrong_type,39375,from 17.98
+meta_CDs_and_Vinyl.jsonl,price:wrong_type,40235,from 39.99
+meta_Cell_Phones_and_Accessories.jsonl,price:wrong_type,53584,—
+meta_Cell_Phones_and_Accessories.jsonl,price:wrong_type,54696,—
+meta_Cell_Phones_and_Accessories.jsonl,price:wrong_type,55151,—
+meta_Cell_Phones_and_Accessories.jsonl,price:wrong_type,55882,—
+meta_Cell_Phones_and_Accessories.jsonl,price:wrong_type,56871,—
+meta_Electronics.jsonl,price:wrong_type,67720,—
+meta_Electronics.jsonl,price:wrong_type,70970,—
+meta_Electronics.jsonl,price:wrong_type,80617,from 32.95
+meta_Electronics.jsonl,price:wrong_type,91212,—
+meta_Electronics.jsonl,price:wrong_type,98393,—
+meta_Magazine_Subscriptions.jsonl,price:wrong_type,1569,—
+meta_Movies_and_TV.jsonl,price:wrong_type,35594,—
+meta_Movies_and_TV.jsonl,price:wrong_type,37437,from 2.99
+meta_Movies_and_TV.jsonl,price:wrong_type,63151,—
+meta_Movies_and_TV.jsonl,price:wrong_type,94516,from 49.95
+meta_Movies_and_TV.jsonl,price:wrong_type,95971,from 4.99
+meta_Musical_Instruments.jsonl,price:wrong_type,17446,—
+meta_Musical_Instruments.jsonl,price:wrong_type,20980,—
+meta_Musical_Instruments.jsonl,price:wrong_type,21512,from 70.61
+meta_Musical_Instruments.jsonl,price:wrong_type,25938,—
+meta_Musical_Instruments.jsonl,price:wrong_type,26793,—
+meta_Video_Games.jsonl,price:wrong_type,10501,from 14.99
+meta_Video_Games.jsonl,price:wrong_type,17706,—
+meta_Video_Games.jsonl,price:wrong_type,20096,—
+meta_Video_Games.jsonl,price:wrong_type,22799,from 26.97
+meta_Video_Games.jsonl,price:wrong_type,30861,from 77.00

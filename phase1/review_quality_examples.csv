@@ -1,0 +1,17 @@
+filename,error_type,row_number,value
+Cell_Phones_and_Accessories.jsonl,helpful_vote:negative,8315770,-1
+Cell_Phones_and_Accessories.jsonl,helpful_vote:negative,16319956,-1
+Cell_Phones_and_Accessories.jsonl,helpful_vote:negative,20575089,-1
+Electronics.jsonl,helpful_vote:negative,1478053,-1
+Electronics.jsonl,helpful_vote:negative,8699585,-2
+Electronics.jsonl,helpful_vote:negative,30687131,-4
+Electronics.jsonl,helpful_vote:negative,39299907,-1
+Electronics.jsonl,rating:out_of_range,29810056,0.0
+Electronics.jsonl,rating:out_of_range,37585134,0.0
+Musical_Instruments.jsonl,helpful_vote:negative,675051,-1
+Musical_Instruments.jsonl,helpful_vote:negative,2936265,-1
+Software.jsonl,helpful_vote:negative,4486506,-1
+Toys_and_Games.jsonl,helpful_vote:negative,13450237,-2
+Toys_and_Games.jsonl,helpful_vote:negative,14155907,-1
+Toys_and_Games.jsonl,helpful_vote:negative,16188325,-3
+Video_Games.jsonl,helpful_vote:negative,1722913,-1

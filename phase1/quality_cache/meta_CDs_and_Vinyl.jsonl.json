@@ -1,0 +1,1 @@
+{"filename": "meta_CDs_and_Vinyl.jsonl", "length": 701959, "errors": {"price:wrong_type": 154}, "examples": {"price:wrong_type": [{"row": 27355, "value": "from 14.99"}, {"row": 27566, "value": "from 11.90"}, {"row": 30701, "value": "from 5.99"}, {"row": 39375, "value": "from 17.98"}, {"row": 40235, "value": "from 39.99"}]}}

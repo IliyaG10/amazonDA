@@ -1,0 +1,1 @@
+{"filename": "meta_Video_Games.jsonl", "length": 137269, "errors": {"price:wrong_type": 36}, "examples": {"price:wrong_type": [{"row": 10501, "value": "from 14.99"}, {"row": 17706, "value": "—"}, {"row": 20096, "value": "—"}, {"row": 22799, "value": "from 26.97"}, {"row": 30861, "value": "from 77.00"}]}}

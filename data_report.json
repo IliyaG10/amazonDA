@@ -1,0 +1,4149 @@
+{
+  "meta": {
+    "meta_CDs_and_Vinyl.jsonl": {
+      "filename": "meta_CDs_and_Vinyl.jsonl",
+      "length": 701959,
+      "present": {
+        "main_category": 701959,
+        "title": 701959,
+        "average_rating": 701959,
+        "rating_number": 701959,
+        "features": 701959,
+        "description": 701959,
+        "price": 701959,
+        "images": 701959,
+        "videos": 701959,
+        "store": 701959,
+        "categories": 701959,
+        "details": 701959,
+        "parent_asin": 701959,
+        "bought_together": 701959,
+        "subtitle": 770,
+        "author": 770
+      },
+      "empty": {
+        "features": 700906,
+        "videos": 697410,
+        "bought_together": 701959,
+        "description": 246221,
+        "price": 149309,
+        "store": 810,
+        "details": 24096,
+        "author": 306,
+        "main_category": 829,
+        "images": 179,
+        "subtitle": 73,
+        "title": 31
+      }
+    },
+    "meta_Cell_Phones_and_Accessories.jsonl": {
+      "filename": "meta_Cell_Phones_and_Accessories.jsonl",
+      "length": 1288490,
+      "present": {
+        "main_category": 1288490,
+        "title": 1288490,
+        "average_rating": 1288490,
+        "rating_number": 1288490,
+        "features": 1288490,
+        "description": 1288490,
+        "price": 1288490,
+        "images": 1288490,
+        "videos": 1288490,
+        "store": 1288490,
+        "categories": 1288490,
+        "details": 1288490,
+        "parent_asin": 1288490,
+        "bought_together": 1288490,
+        "subtitle": 5569,
+        "author": 5569
+      },
+      "empty": {
+        "price": 1036387,
+        "videos": 1062829,
+        "bought_together": 1288490,
+        "description": 717276,
+        "features": 491558,
+        "categories": 249353,
+        "store": 18285,
+        "main_category": 112432,
+        "subtitle": 3607,
+        "author": 5533,
+        "images": 2292,
+        "details": 19513,
+        "title": 71
+      }
+    },
+    "meta_Digital_Music.jsonl": {
+      "filename": "meta_Digital_Music.jsonl",
+      "length": 70537,
+      "present": {
+        "main_category": 70537,
+        "title": 70537,
+        "average_rating": 70537,
+        "rating_number": 70537,
+        "features": 70537,
+        "description": 70537,
+        "price": 70537,
+        "images": 70537,
+        "videos": 70537,
+        "store": 70537,
+        "categories": 70537,
+        "details": 70537,
+        "parent_asin": 70537,
+        "bought_together": 70537
+      },
+      "empty": {
+        "features": 70465,
+        "description": 42405,
+        "price": 30412,
+        "videos": 70390,
+        "store": 4238,
+        "categories": 70530,
+        "bought_together": 70537,
+        "details": 2509,
+        "title": 7,
+        "images": 1
+      }
+    },
+    "meta_Electronics.jsonl": {
+      "filename": "meta_Electronics.jsonl",
+      "length": 1610012,
+      "present": {
+        "main_category": 1610012,
+        "title": 1610012,
+        "average_rating": 1610012,
+        "rating_number": 1610012,
+        "features": 1610012,
+        "description": 1610012,
+        "price": 1610012,
+        "images": 1610012,
+        "videos": 1610012,
+        "store": 1610012,
+        "categories": 1610012,
+        "details": 1610012,
+        "parent_asin": 1610012,
+        "bought_together": 1610012,
+        "subtitle": 1061,
+        "author": 1061
+      },
+      "empty": {
+        "features": 423041,
+        "price": 1083247,
+        "videos": 1209607,
+        "bought_together": 1610012,
+        "description": 682748,
+        "main_category": 106334,
+        "categories": 128442,
+        "store": 9522,
+        "details": 21139,
+        "author": 585,
+        "subtitle": 210,
+        "images": 369,
+        "title": 94
+      }
+    },
+    "meta_Gift_Cards.jsonl": {
+      "filename": "meta_Gift_Cards.jsonl",
+      "length": 1137,
+      "present": {
+        "main_category": 1137,
+        "title": 1137,
+        "average_rating": 1137,
+        "rating_number": 1137,
+        "features": 1137,
+        "description": 1137,
+        "price": 1137,
+        "images": 1137,
+        "videos": 1137,
+        "store": 1137,
+        "categories": 1137,
+        "details": 1137,
+        "parent_asin": 1137,
+        "bought_together": 1137,
+        "subtitle": 1,
+        "author": 1
+      },
+      "empty": {
+        "price": 757,
+        "videos": 1000,
+        "bought_together": 1137,
+        "description": 262,
+        "features": 105,
+        "main_category": 170,
+        "categories": 24,
+        "store": 17,
+        "details": 33,
+        "subtitle": 1,
+        "author": 1,
+        "images": 1
+      }
+    },
+    "meta_Magazine_Subscriptions.jsonl": {
+      "filename": "meta_Magazine_Subscriptions.jsonl",
+      "length": 3391,
+      "present": {
+        "main_category": 3391,
+        "title": 3391,
+        "average_rating": 3391,
+        "rating_number": 3391,
+        "features": 3391,
+        "description": 3391,
+        "price": 3391,
+        "images": 3391,
+        "videos": 3391,
+        "store": 3391,
+        "categories": 3391,
+        "details": 3391,
+        "parent_asin": 3391,
+        "bought_together": 3391,
+        "subtitle": 1,
+        "author": 1
+      },
+      "empty": {
+        "features": 3391,
+        "price": 3390,
+        "videos": 3324,
+        "categories": 834,
+        "bought_together": 3391,
+        "description": 1843,
+        "store": 181,
+        "details": 96,
+        "author": 1
+      }
+    },
+    "meta_Movies_and_TV.jsonl": {
+      "filename": "meta_Movies_and_TV.jsonl",
+      "length": 748224,
+      "present": {
+        "main_category": 748224,
+        "title": 748224,
+        "subtitle": 349626,
+        "average_rating": 748224,
+        "rating_number": 748224,
+        "features": 748224,
+        "description": 748224,
+        "price": 748224,
+        "images": 748224,
+        "videos": 748224,
+        "store": 748224,
+        "categories": 748224,
+        "details": 748224,
+        "parent_asin": 748224,
+        "bought_together": 748224,
+        "author": 508
+      },
+      "empty": {
+        "videos": 727167,
+        "store": 355242,
+        "bought_together": 748224,
+        "subtitle": 338780,
+        "price": 484269,
+        "features": 711007,
+        "description": 400541,
+        "categories": 314860,
+        "details": 10733,
+        "average_rating": 246,
+        "rating_number": 246,
+        "main_category": 36338,
+        "author": 403,
+        "title": 314002,
+        "images": 201
+      }
+    },
+    "meta_Musical_Instruments.jsonl": {
+      "filename": "meta_Musical_Instruments.jsonl",
+      "length": 213593,
+      "present": {
+        "main_category": 213593,
+        "title": 213593,
+        "average_rating": 213593,
+        "rating_number": 213593,
+        "features": 213593,
+        "description": 213593,
+        "price": 213593,
+        "images": 213593,
+        "videos": 213593,
+        "store": 213593,
+        "categories": 213593,
+        "details": 213593,
+        "parent_asin": 213593,
+        "bought_together": 213593,
+        "subtitle": 391,
+        "author": 391
+      },
+      "empty": {
+        "price": 128677,
+        "bought_together": 213593,
+        "videos": 151531,
+        "features": 36612,
+        "description": 60859,
+        "categories": 18974,
+        "store": 3556,
+        "main_category": 3392,
+        "author": 270,
+        "details": 3254,
+        "subtitle": 53,
+        "title": 16,
+        "images": 106
+      }
+    },
+    "meta_Software.jsonl": {
+      "filename": "meta_Software.jsonl",
+      "length": 89251,
+      "present": {
+        "main_category": 89251,
+        "title": 89251,
+        "average_rating": 89251,
+        "rating_number": 89251,
+        "features": 89251,
+        "description": 89251,
+        "price": 89251,
+        "images": 89251,
+        "videos": 89251,
+        "store": 89251,
+        "categories": 89251,
+        "details": 89251,
+        "parent_asin": 89251,
+        "bought_together": 89251,
+        "subtitle": 2,
+        "author": 2
+      },
+      "empty": {
+        "rating_number": 2959,
+        "categories": 70460,
+        "bought_together": 89251,
+        "price": 18266,
+        "videos": 18673,
+        "features": 5475,
+        "description": 4125,
+        "store": 213,
+        "main_category": 1769,
+        "details": 689,
+        "average_rating": 25,
+        "images": 4,
+        "subtitle": 2,
+        "author": 2
+      }
+    },
+    "meta_Subscription_Boxes.jsonl": {
+      "filename": "meta_Subscription_Boxes.jsonl",
+      "length": 641,
+      "present": {
+        "main_category": 641,
+        "title": 641,
+        "average_rating": 641,
+        "rating_number": 641,
+        "features": 641,
+        "description": 641,
+        "price": 641,
+        "images": 641,
+        "videos": 641,
+        "store": 641,
+        "categories": 641,
+        "details": 641,
+        "parent_asin": 641,
+        "bought_together": 641
+      },
+      "empty": {
+        "description": 641,
+        "price": 641,
+        "videos": 641,
+        "categories": 641,
+        "details": 600,
+        "bought_together": 641,
+        "features": 19,
+        "title": 1,
+        "store": 1
+      }
+    },
+    "meta_Toys_and_Games.jsonl": {
+      "filename": "meta_Toys_and_Games.jsonl",
+      "length": 890874,
+      "present": {
+        "main_category": 890874,
+        "title": 890874,
+        "average_rating": 890874,
+        "rating_number": 890874,
+        "features": 890874,
+        "description": 890874,
+        "price": 890874,
+        "images": 890874,
+        "videos": 890874,
+        "store": 890874,
+        "categories": 890874,
+        "details": 890874,
+        "parent_asin": 890874,
+        "bought_together": 890874,
+        "subtitle": 25,
+        "author": 25
+      },
+      "empty": {
+        "features": 176999,
+        "description": 305664,
+        "price": 462209,
+        "categories": 88952,
+        "bought_together": 890874,
+        "videos": 579016,
+        "store": 5360,
+        "main_category": 21857,
+        "details": 20605,
+        "title": 37,
+        "images": 40,
+        "author": 8,
+        "subtitle": 4
+      }
+    },
+    "meta_Video_Games.jsonl": {
+      "filename": "meta_Video_Games.jsonl",
+      "length": 137269,
+      "present": {
+        "main_category": 137269,
+        "title": 137269,
+        "average_rating": 137269,
+        "rating_number": 137269,
+        "features": 137269,
+        "description": 137269,
+        "price": 137269,
+        "images": 137269,
+        "videos": 137269,
+        "store": 137269,
+        "categories": 137269,
+        "details": 137269,
+        "parent_asin": 137269,
+        "bought_together": 137269,
+        "subtitle": 416,
+        "author": 416
+      },
+      "empty": {
+        "price": 75261,
+        "videos": 108356,
+        "bought_together": 137269,
+        "description": 51730,
+        "store": 4361,
+        "categories": 12637,
+        "features": 39498,
+        "main_category": 11036,
+        "subtitle": 66,
+        "author": 154,
+        "details": 3422,
+        "images": 142,
+        "title": 9
+      }
+    }
+  },
+  "review": {
+    "CDs_and_Vinyl.jsonl": {
+      "filename": "CDs_and_Vinyl.jsonl",
+      "length": 4827273,
+      "present": {
+        "rating": 4827273,
+        "title": 4827273,
+        "text": 4827273,
+        "images": 4827273,
+        "asin": 4827273,
+        "parent_asin": 4827273,
+        "user_id": 4827273,
+        "timestamp": 4827273,
+        "helpful_vote": 4827273,
+        "verified_purchase": 4827273
+      },
+      "empty": {
+        "images": 4787818,
+        "text": 748,
+        "title": 1
+      },
+      "text_audit": {
+        "version": 1,
+        "text_field": "text",
+        "word_count_method": "whitespace_split",
+        "char_count_method": "unicode_codepoints_after_strip",
+        "length_bin_definitions": {
+          "very_short": {
+            "min_words": 1,
+            "max_words": 3
+          },
+          "short": {
+            "min_words": 4,
+            "max_words": 20
+          },
+          "medium": {
+            "min_words": 21,
+            "max_words": 100
+          },
+          "long": {
+            "min_words": 101,
+            "max_words": null
+          }
+        },
+        "distribution_denominator": "non_empty_texts",
+        "blank_lines": 0,
+        "overall": {
+          "rows": 4827273,
+          "text_status": {
+            "missing": 0,
+            "null": 0,
+            "non_string": 0,
+            "blank": 748,
+            "non_empty": 4826525
+          },
+          "length_bins": {
+            "very_short": 583501,
+            "short": 1301757,
+            "medium": 1900550,
+            "long": 1040717
+          },
+          "unicode_profile": {
+            "ascii_only": 4660394,
+            "contains_non_ascii": 166131
+          },
+          "suspicious_flags": {
+            "replacement_character": 330,
+            "unusual_control": 361,
+            "surrogate_codepoint": 0
+          },
+          "word_count_sum": 364673269,
+          "char_count_sum": 2066382705,
+          "mean_words": 75.55607170790579,
+          "mean_chars": 428.13052972894576
+        },
+        "by_rating": {
+          "1": {
+            "rows": 187727,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 146,
+              "non_empty": 187581
+            },
+            "length_bins": {
+              "very_short": 7228,
+              "short": 45308,
+              "medium": 95400,
+              "long": 39645
+            },
+            "unicode_profile": {
+              "ascii_only": 177098,
+              "contains_non_ascii": 10483
+            },
+            "suspicious_flags": {
+              "replacement_character": 15,
+              "unusual_control": 11,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 13394724,
+            "char_count_sum": 74255782,
+            "mean_words": 71.40767988229085,
+            "mean_chars": 395.8598258885495
+          },
+          "2": {
+            "rows": 140557,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 42,
+              "non_empty": 140515
+            },
+            "length_bins": {
+              "very_short": 3928,
+              "short": 25510,
+              "medium": 65812,
+              "long": 45265
+            },
+            "unicode_profile": {
+              "ascii_only": 134636,
+              "contains_non_ascii": 5879
+            },
+            "suspicious_flags": {
+              "replacement_character": 25,
+              "unusual_control": 10,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 14223383,
+            "char_count_sum": 79878066,
+            "mean_words": 101.22323595345692,
+            "mean_chars": 568.4664697719105
+          },
+          "3": {
+            "rows": 283691,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 46,
+              "non_empty": 283645
+            },
+            "length_bins": {
+              "very_short": 14245,
+              "short": 54374,
+              "medium": 119909,
+              "long": 95117
+            },
+            "unicode_profile": {
+              "ascii_only": 273137,
+              "contains_non_ascii": 10508
+            },
+            "suspicious_flags": {
+              "replacement_character": 38,
+              "unusual_control": 21,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 31203644,
+            "char_count_sum": 176614323,
+            "mean_words": 110.00949778772761,
+            "mean_chars": 622.6597436937017
+          },
+          "4": {
+            "rows": 664514,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 44,
+              "non_empty": 664470
+            },
+            "length_bins": {
+              "very_short": 51221,
+              "short": 122294,
+              "medium": 262979,
+              "long": 227976
+            },
+            "unicode_profile": {
+              "ascii_only": 642984,
+              "contains_non_ascii": 21486
+            },
+            "suspicious_flags": {
+              "replacement_character": 75,
+              "unusual_control": 66,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 75292423,
+            "char_count_sum": 429910848,
+            "mean_words": 113.3119975318675,
+            "mean_chars": 646.9981308411215
+          },
+          "5": {
+            "rows": 3550784,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 470,
+              "non_empty": 3550314
+            },
+            "length_bins": {
+              "very_short": 506879,
+              "short": 1054271,
+              "medium": 1356450,
+              "long": 632714
+            },
+            "unicode_profile": {
+              "ascii_only": 3432539,
+              "contains_non_ascii": 117775
+            },
+            "suspicious_flags": {
+              "replacement_character": 177,
+              "unusual_control": 253,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 230559095,
+            "char_count_sum": 1305723686,
+            "mean_words": 64.94047991248098,
+            "mean_chars": 367.77695888307346
+          },
+          "missing": {
+            "rows": 0,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 0,
+              "non_empty": 0
+            },
+            "length_bins": {
+              "very_short": 0,
+              "short": 0,
+              "medium": 0,
+              "long": 0
+            },
+            "unicode_profile": {
+              "ascii_only": 0,
+              "contains_non_ascii": 0
+            },
+            "suspicious_flags": {
+              "replacement_character": 0,
+              "unusual_control": 0,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 0,
+            "char_count_sum": 0,
+            "mean_words": null,
+            "mean_chars": null
+          },
+          "null": {
+            "rows": 0,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 0,
+              "non_empty": 0
+            },
+            "length_bins": {
+              "very_short": 0,
+              "short": 0,
+              "medium": 0,
+              "long": 0
+            },
+            "unicode_profile": {
+              "ascii_only": 0,
+              "contains_non_ascii": 0
+            },
+            "suspicious_flags": {
+              "replacement_character": 0,
+              "unusual_control": 0,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 0,
+            "char_count_sum": 0,
+            "mean_words": null,
+            "mean_chars": null
+          },
+          "invalid": {
+            "rows": 0,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 0,
+              "non_empty": 0
+            },
+            "length_bins": {
+              "very_short": 0,
+              "short": 0,
+              "medium": 0,
+              "long": 0
+            },
+            "unicode_profile": {
+              "ascii_only": 0,
+              "contains_non_ascii": 0
+            },
+            "suspicious_flags": {
+              "replacement_character": 0,
+              "unusual_control": 0,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 0,
+            "char_count_sum": 0,
+            "mean_words": null,
+            "mean_chars": null
+          }
+        }
+      }
+    },
+    "Cell_Phones_and_Accessories.jsonl": {
+      "filename": "Cell_Phones_and_Accessories.jsonl",
+      "length": 20812945,
+      "present": {
+        "rating": 20812945,
+        "title": 20812945,
+        "text": 20812945,
+        "images": 20812945,
+        "asin": 20812945,
+        "parent_asin": 20812945,
+        "user_id": 20812945,
+        "timestamp": 20812945,
+        "helpful_vote": 20812945,
+        "verified_purchase": 20812945
+      },
+      "empty": {
+        "images": 19771991,
+        "text": 22275
+      },
+      "text_audit": {
+        "version": 1,
+        "text_field": "text",
+        "word_count_method": "whitespace_split",
+        "char_count_method": "unicode_codepoints_after_strip",
+        "length_bin_definitions": {
+          "very_short": {
+            "min_words": 1,
+            "max_words": 3
+          },
+          "short": {
+            "min_words": 4,
+            "max_words": 20
+          },
+          "medium": {
+            "min_words": 21,
+            "max_words": 100
+          },
+          "long": {
+            "min_words": 101,
+            "max_words": null
+          }
+        },
+        "distribution_denominator": "non_empty_texts",
+        "blank_lines": 0,
+        "overall": {
+          "rows": 20812945,
+          "text_status": {
+            "missing": 0,
+            "null": 0,
+            "non_string": 0,
+            "blank": 22275,
+            "non_empty": 20790670
+          },
+          "length_bins": {
+            "very_short": 2377121,
+            "short": 8446673,
+            "medium": 8764073,
+            "long": 1202803
+          },
+          "unicode_profile": {
+            "ascii_only": 18340777,
+            "contains_non_ascii": 2449893
+          },
+          "suspicious_flags": {
+            "replacement_character": 7,
+            "unusual_control": 149,
+            "surrogate_codepoint": 0
+          },
+          "word_count_sum": 688430035,
+          "char_count_sum": 3654899365,
+          "mean_words": 33.112450681002585,
+          "mean_chars": 175.79516990072952
+        },
+        "by_rating": {
+          "1": {
+            "rows": 2802212,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 4052,
+              "non_empty": 2798160
+            },
+            "length_bins": {
+              "very_short": 131106,
+              "short": 1134860,
+              "medium": 1383083,
+              "long": 149111
+            },
+            "unicode_profile": {
+              "ascii_only": 2364635,
+              "contains_non_ascii": 433525
+            },
+            "suspicious_flags": {
+              "replacement_character": 0,
+              "unusual_control": 14,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 97525106,
+            "char_count_sum": 517842380,
+            "mean_words": 34.85329859622038,
+            "mean_chars": 185.06532149698373
+          },
+          "2": {
+            "rows": 1251658,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 954,
+              "non_empty": 1250704
+            },
+            "length_bins": {
+              "very_short": 36838,
+              "short": 398680,
+              "medium": 705595,
+              "long": 109591
+            },
+            "unicode_profile": {
+              "ascii_only": 1065665,
+              "contains_non_ascii": 185039
+            },
+            "suspicious_flags": {
+              "replacement_character": 1,
+              "unusual_control": 4,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 55725176,
+            "char_count_sum": 295047259,
+            "mean_words": 44.555047397305835,
+            "mean_chars": 235.90494553467488
+          },
+          "3": {
+            "rows": 1543387,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 929,
+              "non_empty": 1542458
+            },
+            "length_bins": {
+              "very_short": 70581,
+              "short": 484728,
+              "medium": 845548,
+              "long": 141601
+            },
+            "unicode_profile": {
+              "ascii_only": 1322453,
+              "contains_non_ascii": 220005
+            },
+            "suspicious_flags": {
+              "replacement_character": 0,
+              "unusual_control": 10,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 69389773,
+            "char_count_sum": 365122822,
+            "mean_words": 44.986491042219626,
+            "mean_chars": 236.71491995243954
+          },
+          "4": {
+            "rows": 2446330,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 1504,
+              "non_empty": 2444826
+            },
+            "length_bins": {
+              "very_short": 224152,
+              "short": 790712,
+              "medium": 1191247,
+              "long": 238715
+            },
+            "unicode_profile": {
+              "ascii_only": 2177865,
+              "contains_non_ascii": 266961
+            },
+            "suspicious_flags": {
+              "replacement_character": 0,
+              "unusual_control": 30,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 108214615,
+            "char_count_sum": 571235132,
+            "mean_words": 44.26270622121984,
+            "mean_chars": 233.65062871549958
+          },
+          "5": {
+            "rows": 12769358,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 14836,
+              "non_empty": 12754522
+            },
+            "length_bins": {
+              "very_short": 1914444,
+              "short": 5637693,
+              "medium": 4638600,
+              "long": 563785
+            },
+            "unicode_profile": {
+              "ascii_only": 11410159,
+              "contains_non_ascii": 1344363
+            },
+            "suspicious_flags": {
+              "replacement_character": 6,
+              "unusual_control": 91,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 357575365,
+            "char_count_sum": 1905651772,
+            "mean_words": 28.03518352157768,
+            "mean_chars": 149.40989336958296
+          },
+          "missing": {
+            "rows": 0,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 0,
+              "non_empty": 0
+            },
+            "length_bins": {
+              "very_short": 0,
+              "short": 0,
+              "medium": 0,
+              "long": 0
+            },
+            "unicode_profile": {
+              "ascii_only": 0,
+              "contains_non_ascii": 0
+            },
+            "suspicious_flags": {
+              "replacement_character": 0,
+              "unusual_control": 0,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 0,
+            "char_count_sum": 0,
+            "mean_words": null,
+            "mean_chars": null
+          },
+          "null": {
+            "rows": 0,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 0,
+              "non_empty": 0
+            },
+            "length_bins": {
+              "very_short": 0,
+              "short": 0,
+              "medium": 0,
+              "long": 0
+            },
+            "unicode_profile": {
+              "ascii_only": 0,
+              "contains_non_ascii": 0
+            },
+            "suspicious_flags": {
+              "replacement_character": 0,
+              "unusual_control": 0,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 0,
+            "char_count_sum": 0,
+            "mean_words": null,
+            "mean_chars": null
+          },
+          "invalid": {
+            "rows": 0,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 0,
+              "non_empty": 0
+            },
+            "length_bins": {
+              "very_short": 0,
+              "short": 0,
+              "medium": 0,
+              "long": 0
+            },
+            "unicode_profile": {
+              "ascii_only": 0,
+              "contains_non_ascii": 0
+            },
+            "suspicious_flags": {
+              "replacement_character": 0,
+              "unusual_control": 0,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 0,
+            "char_count_sum": 0,
+            "mean_words": null,
+            "mean_chars": null
+          }
+        }
+      }
+    },
+    "Digital_Music.jsonl": {
+      "filename": "Digital_Music.jsonl",
+      "length": 130434,
+      "present": {
+        "rating": 130434,
+        "title": 130434,
+        "text": 130434,
+        "images": 130434,
+        "asin": 130434,
+        "parent_asin": 130434,
+        "user_id": 130434,
+        "timestamp": 130434,
+        "helpful_vote": 130434,
+        "verified_purchase": 130434
+      },
+      "empty": {
+        "images": 127100,
+        "text": 50
+      },
+      "text_audit": {
+        "version": 1,
+        "text_field": "text",
+        "word_count_method": "whitespace_split",
+        "char_count_method": "unicode_codepoints_after_strip",
+        "length_bin_definitions": {
+          "very_short": {
+            "min_words": 1,
+            "max_words": 3
+          },
+          "short": {
+            "min_words": 4,
+            "max_words": 20
+          },
+          "medium": {
+            "min_words": 21,
+            "max_words": 100
+          },
+          "long": {
+            "min_words": 101,
+            "max_words": null
+          }
+        },
+        "distribution_denominator": "non_empty_texts",
+        "blank_lines": 0,
+        "overall": {
+          "rows": 130434,
+          "text_status": {
+            "missing": 0,
+            "null": 0,
+            "non_string": 0,
+            "blank": 50,
+            "non_empty": 130384
+          },
+          "length_bins": {
+            "very_short": 16453,
+            "short": 43596,
+            "medium": 51288,
+            "long": 19047
+          },
+          "unicode_profile": {
+            "ascii_only": 122017,
+            "contains_non_ascii": 8367
+          },
+          "suspicious_flags": {
+            "replacement_character": 2,
+            "unusual_control": 6,
+            "surrogate_codepoint": 0
+          },
+          "word_count_sum": 7767928,
+          "char_count_sum": 44378336,
+          "mean_words": 59.5773100993987,
+          "mean_chars": 340.36642532826113
+        },
+        "by_rating": {
+          "1": {
+            "rows": 6136,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 5,
+              "non_empty": 6131
+            },
+            "length_bins": {
+              "very_short": 287,
+              "short": 2121,
+              "medium": 3101,
+              "long": 622
+            },
+            "unicode_profile": {
+              "ascii_only": 5615,
+              "contains_non_ascii": 516
+            },
+            "suspicious_flags": {
+              "replacement_character": 0,
+              "unusual_control": 1,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 291883,
+            "char_count_sum": 1608472,
+            "mean_words": 47.60773120208775,
+            "mean_chars": 262.3506768879465
+          },
+          "2": {
+            "rows": 3159,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 3,
+              "non_empty": 3156
+            },
+            "length_bins": {
+              "very_short": 111,
+              "short": 916,
+              "medium": 1488,
+              "long": 641
+            },
+            "unicode_profile": {
+              "ascii_only": 2938,
+              "contains_non_ascii": 218
+            },
+            "suspicious_flags": {
+              "replacement_character": 0,
+              "unusual_control": 0,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 242998,
+            "char_count_sum": 1373980,
+            "mean_words": 76.99556400506971,
+            "mean_chars": 435.3548795944233
+          },
+          "3": {
+            "rows": 6392,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 2,
+              "non_empty": 6390
+            },
+            "length_bins": {
+              "very_short": 348,
+              "short": 1543,
+              "medium": 2901,
+              "long": 1598
+            },
+            "unicode_profile": {
+              "ascii_only": 5926,
+              "contains_non_ascii": 464
+            },
+            "suspicious_flags": {
+              "replacement_character": 0,
+              "unusual_control": 0,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 608176,
+            "char_count_sum": 3485235,
+            "mean_words": 95.17621283255086,
+            "mean_chars": 545.4201877934272
+          },
+          "4": {
+            "rows": 14129,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 5,
+              "non_empty": 14124
+            },
+            "length_bins": {
+              "very_short": 1104,
+              "short": 3258,
+              "medium": 5849,
+              "long": 3913
+            },
+            "unicode_profile": {
+              "ascii_only": 13104,
+              "contains_non_ascii": 1020
+            },
+            "suspicious_flags": {
+              "replacement_character": 0,
+              "unusual_control": 0,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 1462499,
+            "char_count_sum": 8461192,
+            "mean_words": 103.54708297932596,
+            "mean_chars": 599.0648541489663
+          },
+          "5": {
+            "rows": 100618,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 35,
+              "non_empty": 100583
+            },
+            "length_bins": {
+              "very_short": 14603,
+              "short": 35758,
+              "medium": 37949,
+              "long": 12273
+            },
+            "unicode_profile": {
+              "ascii_only": 94434,
+              "contains_non_ascii": 6149
+            },
+            "suspicious_flags": {
+              "replacement_character": 2,
+              "unusual_control": 5,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 5162372,
+            "char_count_sum": 29449457,
+            "mean_words": 51.324498175636045,
+            "mean_chars": 292.78761818597576
+          },
+          "missing": {
+            "rows": 0,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 0,
+              "non_empty": 0
+            },
+            "length_bins": {
+              "very_short": 0,
+              "short": 0,
+              "medium": 0,
+              "long": 0
+            },
+            "unicode_profile": {
+              "ascii_only": 0,
+              "contains_non_ascii": 0
+            },
+            "suspicious_flags": {
+              "replacement_character": 0,
+              "unusual_control": 0,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 0,
+            "char_count_sum": 0,
+            "mean_words": null,
+            "mean_chars": null
+          },
+          "null": {
+            "rows": 0,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 0,
+              "non_empty": 0
+            },
+            "length_bins": {
+              "very_short": 0,
+              "short": 0,
+              "medium": 0,
+              "long": 0
+            },
+            "unicode_profile": {
+              "ascii_only": 0,
+              "contains_non_ascii": 0
+            },
+            "suspicious_flags": {
+              "replacement_character": 0,
+              "unusual_control": 0,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 0,
+            "char_count_sum": 0,
+            "mean_words": null,
+            "mean_chars": null
+          },
+          "invalid": {
+            "rows": 0,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 0,
+              "non_empty": 0
+            },
+            "length_bins": {
+              "very_short": 0,
+              "short": 0,
+              "medium": 0,
+              "long": 0
+            },
+            "unicode_profile": {
+              "ascii_only": 0,
+              "contains_non_ascii": 0
+            },
+            "suspicious_flags": {
+              "replacement_character": 0,
+              "unusual_control": 0,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 0,
+            "char_count_sum": 0,
+            "mean_words": null,
+            "mean_chars": null
+          }
+        }
+      }
+    },
+    "Electronics.jsonl": {
+      "filename": "Electronics.jsonl",
+      "length": 43886944,
+      "present": {
+        "rating": 43886944,
+        "title": 43886944,
+        "text": 43886944,
+        "images": 43886944,
+        "asin": 43886944,
+        "parent_asin": 43886944,
+        "user_id": 43886944,
+        "timestamp": 43886944,
+        "helpful_vote": 43886944,
+        "verified_purchase": 43886944
+      },
+      "empty": {
+        "images": 41863199,
+        "text": 41193,
+        "title": 2
+      },
+      "text_audit": {
+        "version": 1,
+        "text_field": "text",
+        "word_count_method": "whitespace_split",
+        "char_count_method": "unicode_codepoints_after_strip",
+        "length_bin_definitions": {
+          "very_short": {
+            "min_words": 1,
+            "max_words": 3
+          },
+          "short": {
+            "min_words": 4,
+            "max_words": 20
+          },
+          "medium": {
+            "min_words": 21,
+            "max_words": 100
+          },
+          "long": {
+            "min_words": 101,
+            "max_words": null
+          }
+        },
+        "distribution_denominator": "non_empty_texts",
+        "blank_lines": 0,
+        "overall": {
+          "rows": 43886944,
+          "text_status": {
+            "missing": 0,
+            "null": 0,
+            "non_string": 0,
+            "blank": 41193,
+            "non_empty": 43845751
+          },
+          "length_bins": {
+            "very_short": 4428773,
+            "short": 15867801,
+            "medium": 19031405,
+            "long": 4517772
+          },
+          "unicode_profile": {
+            "ascii_only": 39936711,
+            "contains_non_ascii": 3909040
+          },
+          "suspicious_flags": {
+            "replacement_character": 49,
+            "unusual_control": 594,
+            "surrogate_codepoint": 0
+          },
+          "word_count_sum": 1960597134,
+          "char_count_sum": 10591062504,
+          "mean_words": 44.715784067651164,
+          "mean_chars": 241.55276765586703
+        },
+        "by_rating": {
+          "1": {
+            "rows": 5358800,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 4818,
+              "non_empty": 5353982
+            },
+            "length_bins": {
+              "very_short": 208463,
+              "short": 1729194,
+              "medium": 2778531,
+              "long": 637794
+            },
+            "unicode_profile": {
+              "ascii_only": 4624810,
+              "contains_non_ascii": 729172
+            },
+            "suspicious_flags": {
+              "replacement_character": 7,
+              "unusual_control": 79,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 269261893,
+            "char_count_sum": 1458032774,
+            "mean_words": 50.29189358499898,
+            "mean_chars": 272.3267978861341
+          },
+          "2": {
+            "rows": 2257604,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 1051,
+              "non_empty": 2256553
+            },
+            "length_bins": {
+              "very_short": 51787,
+              "short": 560308,
+              "medium": 1242209,
+              "long": 402249
+            },
+            "unicode_profile": {
+              "ascii_only": 1989707,
+              "contains_non_ascii": 266846
+            },
+            "suspicious_flags": {
+              "replacement_character": 2,
+              "unusual_control": 42,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 147627613,
+            "char_count_sum": 798968046,
+            "mean_words": 65.42173527499686,
+            "mean_chars": 354.0657126156576
+          },
+          "3": {
+            "rows": 2883065,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 1172,
+              "non_empty": 2881893
+            },
+            "length_bins": {
+              "very_short": 114555,
+              "short": 746614,
+              "medium": 1523333,
+              "long": 497391
+            },
+            "unicode_profile": {
+              "ascii_only": 2560843,
+              "contains_non_ascii": 321050
+            },
+            "suspicious_flags": {
+              "replacement_character": 5,
+              "unusual_control": 58,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 186509585,
+            "char_count_sum": 1003952699,
+            "mean_words": 64.71773414210729,
+            "mean_chars": 348.36570927511883
+          },
+          "4": {
+            "rows": 5557725,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 3052,
+              "non_empty": 5554673
+            },
+            "length_bins": {
+              "very_short": 429845,
+              "short": 1573891,
+              "medium": 2648929,
+              "long": 902008
+            },
+            "unicode_profile": {
+              "ascii_only": 5107878,
+              "contains_non_ascii": 446795
+            },
+            "suspicious_flags": {
+              "replacement_character": 10,
+              "unusual_control": 123,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 342280771,
+            "char_count_sum": 1845669020,
+            "mean_words": 61.62032778527197,
+            "mean_chars": 332.2732085219058
+          },
+          "5": {
+            "rows": 27829748,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 31100,
+              "non_empty": 27798648
+            },
+            "length_bins": {
+              "very_short": 3624123,
+              "short": 11257792,
+              "medium": 10838403,
+              "long": 2078330
+            },
+            "unicode_profile": {
+              "ascii_only": 25653471,
+              "contains_non_ascii": 2145177
+            },
+            "suspicious_flags": {
+              "replacement_character": 25,
+              "unusual_control": 292,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 1014917251,
+            "char_count_sum": 5484439859,
+            "mean_words": 36.50959035849513,
+            "mean_chars": 197.2916042175864
+          },
+          "missing": {
+            "rows": 0,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 0,
+              "non_empty": 0
+            },
+            "length_bins": {
+              "very_short": 0,
+              "short": 0,
+              "medium": 0,
+              "long": 0
+            },
+            "unicode_profile": {
+              "ascii_only": 0,
+              "contains_non_ascii": 0
+            },
+            "suspicious_flags": {
+              "replacement_character": 0,
+              "unusual_control": 0,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 0,
+            "char_count_sum": 0,
+            "mean_words": null,
+            "mean_chars": null
+          },
+          "null": {
+            "rows": 0,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 0,
+              "non_empty": 0
+            },
+            "length_bins": {
+              "very_short": 0,
+              "short": 0,
+              "medium": 0,
+              "long": 0
+            },
+            "unicode_profile": {
+              "ascii_only": 0,
+              "contains_non_ascii": 0
+            },
+            "suspicious_flags": {
+              "replacement_character": 0,
+              "unusual_control": 0,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 0,
+            "char_count_sum": 0,
+            "mean_words": null,
+            "mean_chars": null
+          },
+          "invalid": {
+            "rows": 2,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 0,
+              "non_empty": 2
+            },
+            "length_bins": {
+              "very_short": 0,
+              "short": 2,
+              "medium": 0,
+              "long": 0
+            },
+            "unicode_profile": {
+              "ascii_only": 2,
+              "contains_non_ascii": 0
+            },
+            "suspicious_flags": {
+              "replacement_character": 0,
+              "unusual_control": 0,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 21,
+            "char_count_sum": 106,
+            "mean_words": 10.5,
+            "mean_chars": 53.0
+          }
+        }
+      }
+    },
+    "Gift_Cards.jsonl": {
+      "filename": "Gift_Cards.jsonl",
+      "length": 152410,
+      "present": {
+        "rating": 152410,
+        "title": 152410,
+        "text": 152410,
+        "images": 152410,
+        "asin": 152410,
+        "parent_asin": 152410,
+        "user_id": 152410,
+        "timestamp": 152410,
+        "helpful_vote": 152410,
+        "verified_purchase": 152410
+      },
+      "empty": {
+        "images": 150966,
+        "text": 49
+      },
+      "text_audit": {
+        "version": 1,
+        "text_field": "text",
+        "word_count_method": "whitespace_split",
+        "char_count_method": "unicode_codepoints_after_strip",
+        "length_bin_definitions": {
+          "very_short": {
+            "min_words": 1,
+            "max_words": 3
+          },
+          "short": {
+            "min_words": 4,
+            "max_words": 20
+          },
+          "medium": {
+            "min_words": 21,
+            "max_words": 100
+          },
+          "long": {
+            "min_words": 101,
+            "max_words": null
+          }
+        },
+        "distribution_denominator": "non_empty_texts",
+        "blank_lines": 0,
+        "overall": {
+          "rows": 152410,
+          "text_status": {
+            "missing": 0,
+            "null": 0,
+            "non_string": 0,
+            "blank": 49,
+            "non_empty": 152361
+          },
+          "length_bins": {
+            "very_short": 38266,
+            "short": 79034,
+            "medium": 33137,
+            "long": 1924
+          },
+          "unicode_profile": {
+            "ascii_only": 143393,
+            "contains_non_ascii": 8968
+          },
+          "suspicious_flags": {
+            "replacement_character": 0,
+            "unusual_control": 1,
+            "surrogate_codepoint": 0
+          },
+          "word_count_sum": 2420060,
+          "char_count_sum": 12685094,
+          "mean_words": 15.883723525049062,
+          "mean_chars": 83.256830816285
+        },
+        "by_rating": {
+          "1": {
+            "rows": 12326,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 18,
+              "non_empty": 12308
+            },
+            "length_bins": {
+              "very_short": 654,
+              "short": 4349,
+              "medium": 6510,
+              "long": 795
+            },
+            "unicode_profile": {
+              "ascii_only": 10468,
+              "contains_non_ascii": 1840
+            },
+            "suspicious_flags": {
+              "replacement_character": 0,
+              "unusual_control": 0,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 475200,
+            "char_count_sum": 2502873,
+            "mean_words": 38.60903477413065,
+            "mean_chars": 203.3533474163146
+          },
+          "2": {
+            "rows": 1873,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 3,
+              "non_empty": 1870
+            },
+            "length_bins": {
+              "very_short": 94,
+              "short": 577,
+              "medium": 1073,
+              "long": 126
+            },
+            "unicode_profile": {
+              "ascii_only": 1663,
+              "contains_non_ascii": 207
+            },
+            "suspicious_flags": {
+              "replacement_character": 0,
+              "unusual_control": 0,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 76115,
+            "char_count_sum": 399679,
+            "mean_words": 40.70320855614973,
+            "mean_chars": 213.7320855614973
+          },
+          "3": {
+            "rows": 3271,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 1,
+              "non_empty": 3270
+            },
+            "length_bins": {
+              "very_short": 425,
+              "short": 1215,
+              "medium": 1490,
+              "long": 140
+            },
+            "unicode_profile": {
+              "ascii_only": 2955,
+              "contains_non_ascii": 315
+            },
+            "suspicious_flags": {
+              "replacement_character": 0,
+              "unusual_control": 0,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 101431,
+            "char_count_sum": 529246,
+            "mean_words": 31.018654434250763,
+            "mean_chars": 161.84892966360857
+          },
+          "4": {
+            "rows": 6692,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 1,
+              "non_empty": 6691
+            },
+            "length_bins": {
+              "very_short": 1626,
+              "short": 3047,
+              "medium": 1852,
+              "long": 166
+            },
+            "unicode_profile": {
+              "ascii_only": 6308,
+              "contains_non_ascii": 383
+            },
+            "suspicious_flags": {
+              "replacement_character": 0,
+              "unusual_control": 1,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 134693,
+            "char_count_sum": 700020,
+            "mean_words": 20.13047377073681,
+            "mean_chars": 104.6211328650426
+          },
+          "5": {
+            "rows": 128248,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 26,
+              "non_empty": 128222
+            },
+            "length_bins": {
+              "very_short": 35467,
+              "short": 69846,
+              "medium": 22212,
+              "long": 697
+            },
+            "unicode_profile": {
+              "ascii_only": 121999,
+              "contains_non_ascii": 6223
+            },
+            "suspicious_flags": {
+              "replacement_character": 0,
+              "unusual_control": 0,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 1632621,
+            "char_count_sum": 8553276,
+            "mean_words": 12.73276816770913,
+            "mean_chars": 66.70677418851679
+          },
+          "missing": {
+            "rows": 0,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 0,
+              "non_empty": 0
+            },
+            "length_bins": {
+              "very_short": 0,
+              "short": 0,
+              "medium": 0,
+              "long": 0
+            },
+            "unicode_profile": {
+              "ascii_only": 0,
+              "contains_non_ascii": 0
+            },
+            "suspicious_flags": {
+              "replacement_character": 0,
+              "unusual_control": 0,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 0,
+            "char_count_sum": 0,
+            "mean_words": null,
+            "mean_chars": null
+          },
+          "null": {
+            "rows": 0,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 0,
+              "non_empty": 0
+            },
+            "length_bins": {
+              "very_short": 0,
+              "short": 0,
+              "medium": 0,
+              "long": 0
+            },
+            "unicode_profile": {
+              "ascii_only": 0,
+              "contains_non_ascii": 0
+            },
+            "suspicious_flags": {
+              "replacement_character": 0,
+              "unusual_control": 0,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 0,
+            "char_count_sum": 0,
+            "mean_words": null,
+            "mean_chars": null
+          },
+          "invalid": {
+            "rows": 0,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 0,
+              "non_empty": 0
+            },
+            "length_bins": {
+              "very_short": 0,
+              "short": 0,
+              "medium": 0,
+              "long": 0
+            },
+            "unicode_profile": {
+              "ascii_only": 0,
+              "contains_non_ascii": 0
+            },
+            "suspicious_flags": {
+              "replacement_character": 0,
+              "unusual_control": 0,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 0,
+            "char_count_sum": 0,
+            "mean_words": null,
+            "mean_chars": null
+          }
+        }
+      }
+    },
+    "Magazine_Subscriptions.jsonl": {
+      "filename": "Magazine_Subscriptions.jsonl",
+      "length": 71497,
+      "present": {
+        "rating": 71497,
+        "title": 71497,
+        "text": 71497,
+        "images": 71497,
+        "asin": 71497,
+        "parent_asin": 71497,
+        "user_id": 71497,
+        "timestamp": 71497,
+        "helpful_vote": 71497,
+        "verified_purchase": 71497
+      },
+      "empty": {
+        "images": 71275,
+        "text": 1
+      },
+      "text_audit": {
+        "version": 1,
+        "text_field": "text",
+        "word_count_method": "whitespace_split",
+        "char_count_method": "unicode_codepoints_after_strip",
+        "length_bin_definitions": {
+          "very_short": {
+            "min_words": 1,
+            "max_words": 3
+          },
+          "short": {
+            "min_words": 4,
+            "max_words": 20
+          },
+          "medium": {
+            "min_words": 21,
+            "max_words": 100
+          },
+          "long": {
+            "min_words": 101,
+            "max_words": null
+          }
+        },
+        "distribution_denominator": "non_empty_texts",
+        "blank_lines": 0,
+        "overall": {
+          "rows": 71497,
+          "text_status": {
+            "missing": 0,
+            "null": 0,
+            "non_string": 0,
+            "blank": 1,
+            "non_empty": 71496
+          },
+          "length_bins": {
+            "very_short": 8685,
+            "short": 25982,
+            "medium": 30950,
+            "long": 5879
+          },
+          "unicode_profile": {
+            "ascii_only": 68841,
+            "contains_non_ascii": 2655
+          },
+          "suspicious_flags": {
+            "replacement_character": 0,
+            "unusual_control": 14,
+            "surrogate_codepoint": 0
+          },
+          "word_count_sum": 2741170,
+          "char_count_sum": 15527004,
+          "mean_words": 38.34018686360076,
+          "mean_chars": 217.1730446458543
+        },
+        "by_rating": {
+          "1": {
+            "rows": 9685,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 0,
+              "non_empty": 9685
+            },
+            "length_bins": {
+              "very_short": 382,
+              "short": 2972,
+              "medium": 5069,
+              "long": 1262
+            },
+            "unicode_profile": {
+              "ascii_only": 8916,
+              "contains_non_ascii": 769
+            },
+            "suspicious_flags": {
+              "replacement_character": 0,
+              "unusual_control": 0,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 511454,
+            "char_count_sum": 2886944,
+            "mean_words": 52.80887971089313,
+            "mean_chars": 298.08404749612805
+          },
+          "2": {
+            "rows": 3953,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 0,
+              "non_empty": 3953
+            },
+            "length_bins": {
+              "very_short": 165,
+              "short": 1024,
+              "medium": 2081,
+              "long": 683
+            },
+            "unicode_profile": {
+              "ascii_only": 3706,
+              "contains_non_ascii": 247
+            },
+            "suspicious_flags": {
+              "replacement_character": 0,
+              "unusual_control": 0,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 250464,
+            "char_count_sum": 1421226,
+            "mean_words": 63.36048570705793,
+            "mean_chars": 359.5309891221857
+          },
+          "3": {
+            "rows": 5033,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 0,
+              "non_empty": 5033
+            },
+            "length_bins": {
+              "very_short": 378,
+              "short": 1504,
+              "medium": 2503,
+              "long": 648
+            },
+            "unicode_profile": {
+              "ascii_only": 4789,
+              "contains_non_ascii": 244
+            },
+            "suspicious_flags": {
+              "replacement_character": 0,
+              "unusual_control": 0,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 260417,
+            "char_count_sum": 1460099,
+            "mean_words": 51.74190343731373,
+            "mean_chars": 290.10510629843037
+          },
+          "4": {
+            "rows": 8206,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 0,
+              "non_empty": 8206
+            },
+            "length_bins": {
+              "very_short": 891,
+              "short": 2645,
+              "medium": 3760,
+              "long": 910
+            },
+            "unicode_profile": {
+              "ascii_only": 8033,
+              "contains_non_ascii": 173
+            },
+            "suspicious_flags": {
+              "replacement_character": 0,
+              "unusual_control": 1,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 375693,
+            "char_count_sum": 2129256,
+            "mean_words": 45.78271996100414,
+            "mean_chars": 259.47550572751646
+          },
+          "5": {
+            "rows": 44620,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 1,
+              "non_empty": 44619
+            },
+            "length_bins": {
+              "very_short": 6869,
+              "short": 17837,
+              "medium": 17537,
+              "long": 2376
+            },
+            "unicode_profile": {
+              "ascii_only": 43397,
+              "contains_non_ascii": 1222
+            },
+            "suspicious_flags": {
+              "replacement_character": 0,
+              "unusual_control": 13,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 1343142,
+            "char_count_sum": 7629479,
+            "mean_words": 30.10246755866335,
+            "mean_chars": 170.99170756852462
+          },
+          "missing": {
+            "rows": 0,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 0,
+              "non_empty": 0
+            },
+            "length_bins": {
+              "very_short": 0,
+              "short": 0,
+              "medium": 0,
+              "long": 0
+            },
+            "unicode_profile": {
+              "ascii_only": 0,
+              "contains_non_ascii": 0
+            },
+            "suspicious_flags": {
+              "replacement_character": 0,
+              "unusual_control": 0,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 0,
+            "char_count_sum": 0,
+            "mean_words": null,
+            "mean_chars": null
+          },
+          "null": {
+            "rows": 0,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 0,
+              "non_empty": 0
+            },
+            "length_bins": {
+              "very_short": 0,
+              "short": 0,
+              "medium": 0,
+              "long": 0
+            },
+            "unicode_profile": {
+              "ascii_only": 0,
+              "contains_non_ascii": 0
+            },
+            "suspicious_flags": {
+              "replacement_character": 0,
+              "unusual_control": 0,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 0,
+            "char_count_sum": 0,
+            "mean_words": null,
+            "mean_chars": null
+          },
+          "invalid": {
+            "rows": 0,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 0,
+              "non_empty": 0
+            },
+            "length_bins": {
+              "very_short": 0,
+              "short": 0,
+              "medium": 0,
+              "long": 0
+            },
+            "unicode_profile": {
+              "ascii_only": 0,
+              "contains_non_ascii": 0
+            },
+            "suspicious_flags": {
+              "replacement_character": 0,
+              "unusual_control": 0,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 0,
+            "char_count_sum": 0,
+            "mean_words": null,
+            "mean_chars": null
+          }
+        }
+      }
+    },
+    "Movies_and_TV.jsonl": {
+      "filename": "Movies_and_TV.jsonl",
+      "length": 17328314,
+      "present": {
+        "rating": 17328314,
+        "title": 17328314,
+        "text": 17328314,
+        "images": 17328314,
+        "asin": 17328314,
+        "parent_asin": 17328314,
+        "user_id": 17328314,
+        "timestamp": 17328314,
+        "helpful_vote": 17328314,
+        "verified_purchase": 17328314
+      },
+      "empty": {
+        "images": 17276745,
+        "text": 1219,
+        "title": 2
+      },
+      "text_audit": {
+        "version": 1,
+        "text_field": "text",
+        "word_count_method": "whitespace_split",
+        "char_count_method": "unicode_codepoints_after_strip",
+        "length_bin_definitions": {
+          "very_short": {
+            "min_words": 1,
+            "max_words": 3
+          },
+          "short": {
+            "min_words": 4,
+            "max_words": 20
+          },
+          "medium": {
+            "min_words": 21,
+            "max_words": 100
+          },
+          "long": {
+            "min_words": 101,
+            "max_words": null
+          }
+        },
+        "distribution_denominator": "non_empty_texts",
+        "blank_lines": 0,
+        "overall": {
+          "rows": 17328314,
+          "text_status": {
+            "missing": 0,
+            "null": 0,
+            "non_string": 0,
+            "blank": 1219,
+            "non_empty": 17327095
+          },
+          "length_bins": {
+            "very_short": 3013121,
+            "short": 6509980,
+            "medium": 6179567,
+            "long": 1624427
+          },
+          "unicode_profile": {
+            "ascii_only": 16792915,
+            "contains_non_ascii": 534180
+          },
+          "suspicious_flags": {
+            "replacement_character": 410,
+            "unusual_control": 414,
+            "surrogate_codepoint": 0
+          },
+          "word_count_sum": 731515852,
+          "char_count_sum": 4102111894,
+          "mean_words": 42.218032047495555,
+          "mean_chars": 236.74550719552238
+        },
+        "by_rating": {
+          "1": {
+            "rows": 1410250,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 174,
+              "non_empty": 1410076
+            },
+            "length_bins": {
+              "very_short": 151015,
+              "short": 489730,
+              "medium": 606319,
+              "long": 163012
+            },
+            "unicode_profile": {
+              "ascii_only": 1331001,
+              "contains_non_ascii": 79075
+            },
+            "suspicious_flags": {
+              "replacement_character": 28,
+              "unusual_control": 34,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 68364308,
+            "char_count_sum": 380485673,
+            "mean_words": 48.4827115701565,
+            "mean_chars": 269.8334508210905
+          },
+          "2": {
+            "rows": 766735,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 54,
+              "non_empty": 766681
+            },
+            "length_bins": {
+              "very_short": 71231,
+              "short": 240269,
+              "medium": 322304,
+              "long": 132877
+            },
+            "unicode_profile": {
+              "ascii_only": 736164,
+              "contains_non_ascii": 30517
+            },
+            "suspicious_flags": {
+              "replacement_character": 26,
+              "unusual_control": 23,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 49983922,
+            "char_count_sum": 280799934,
+            "mean_words": 65.1952011331962,
+            "mean_chars": 366.2539361220638
+          },
+          "3": {
+            "rows": 1260217,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 70,
+              "non_empty": 1260147
+            },
+            "length_bins": {
+              "very_short": 150513,
+              "short": 415053,
+              "medium": 490262,
+              "long": 204319
+            },
+            "unicode_profile": {
+              "ascii_only": 1218620,
+              "contains_non_ascii": 41527
+            },
+            "suspicious_flags": {
+              "replacement_character": 66,
+              "unusual_control": 34,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 79948243,
+            "char_count_sum": 449174821,
+            "mean_words": 63.4435847563816,
+            "mean_chars": 356.4463677650306
+          },
+          "4": {
+            "rows": 2604827,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 132,
+              "non_empty": 2604695
+            },
+            "length_bins": {
+              "very_short": 404996,
+              "short": 900063,
+              "medium": 955589,
+              "long": 344047
+            },
+            "unicode_profile": {
+              "ascii_only": 2540936,
+              "contains_non_ascii": 63759
+            },
+            "suspicious_flags": {
+              "replacement_character": 110,
+              "unusual_control": 86,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 142756558,
+            "char_count_sum": 806480674,
+            "mean_words": 54.80739894690165,
+            "mean_chars": 309.62576194141735
+          },
+          "5": {
+            "rows": 11286285,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 789,
+              "non_empty": 11285496
+            },
+            "length_bins": {
+              "very_short": 2235366,
+              "short": 4464865,
+              "medium": 3805093,
+              "long": 780172
+            },
+            "unicode_profile": {
+              "ascii_only": 10966194,
+              "contains_non_ascii": 319302
+            },
+            "suspicious_flags": {
+              "replacement_character": 180,
+              "unusual_control": 237,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 390462821,
+            "char_count_sum": 2185170792,
+            "mean_words": 34.598640680037455,
+            "mean_chars": 193.626473484196
+          },
+          "missing": {
+            "rows": 0,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 0,
+              "non_empty": 0
+            },
+            "length_bins": {
+              "very_short": 0,
+              "short": 0,
+              "medium": 0,
+              "long": 0
+            },
+            "unicode_profile": {
+              "ascii_only": 0,
+              "contains_non_ascii": 0
+            },
+            "suspicious_flags": {
+              "replacement_character": 0,
+              "unusual_control": 0,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 0,
+            "char_count_sum": 0,
+            "mean_words": null,
+            "mean_chars": null
+          },
+          "null": {
+            "rows": 0,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 0,
+              "non_empty": 0
+            },
+            "length_bins": {
+              "very_short": 0,
+              "short": 0,
+              "medium": 0,
+              "long": 0
+            },
+            "unicode_profile": {
+              "ascii_only": 0,
+              "contains_non_ascii": 0
+            },
+            "suspicious_flags": {
+              "replacement_character": 0,
+              "unusual_control": 0,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 0,
+            "char_count_sum": 0,
+            "mean_words": null,
+            "mean_chars": null
+          },
+          "invalid": {
+            "rows": 0,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 0,
+              "non_empty": 0
+            },
+            "length_bins": {
+              "very_short": 0,
+              "short": 0,
+              "medium": 0,
+              "long": 0
+            },
+            "unicode_profile": {
+              "ascii_only": 0,
+              "contains_non_ascii": 0
+            },
+            "suspicious_flags": {
+              "replacement_character": 0,
+              "unusual_control": 0,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 0,
+            "char_count_sum": 0,
+            "mean_words": null,
+            "mean_chars": null
+          }
+        }
+      }
+    },
+    "Musical_Instruments.jsonl": {
+      "filename": "Musical_Instruments.jsonl",
+      "length": 3017439,
+      "present": {
+        "rating": 3017439,
+        "title": 3017439,
+        "text": 3017439,
+        "images": 3017439,
+        "asin": 3017439,
+        "parent_asin": 3017439,
+        "user_id": 3017439,
+        "timestamp": 3017439,
+        "helpful_vote": 3017439,
+        "verified_purchase": 3017439
+      },
+      "empty": {
+        "images": 2851484,
+        "text": 2830
+      },
+      "text_audit": {
+        "version": 1,
+        "text_field": "text",
+        "word_count_method": "whitespace_split",
+        "char_count_method": "unicode_codepoints_after_strip",
+        "length_bin_definitions": {
+          "very_short": {
+            "min_words": 1,
+            "max_words": 3
+          },
+          "short": {
+            "min_words": 4,
+            "max_words": 20
+          },
+          "medium": {
+            "min_words": 21,
+            "max_words": 100
+          },
+          "long": {
+            "min_words": 101,
+            "max_words": null
+          }
+        },
+        "distribution_denominator": "non_empty_texts",
+        "blank_lines": 0,
+        "overall": {
+          "rows": 3017439,
+          "text_status": {
+            "missing": 0,
+            "null": 0,
+            "non_string": 0,
+            "blank": 2830,
+            "non_empty": 3014609
+          },
+          "length_bins": {
+            "very_short": 297216,
+            "short": 1099158,
+            "medium": 1308728,
+            "long": 309507
+          },
+          "unicode_profile": {
+            "ascii_only": 2745793,
+            "contains_non_ascii": 268816
+          },
+          "suspicious_flags": {
+            "replacement_character": 1,
+            "unusual_control": 50,
+            "surrogate_codepoint": 0
+          },
+          "word_count_sum": 133186403,
+          "char_count_sum": 719935501,
+          "mean_words": 44.18032421451671,
+          "mean_chars": 238.81554821869105
+        },
+        "by_rating": {
+          "1": {
+            "rows": 264352,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 358,
+              "non_empty": 263994
+            },
+            "length_bins": {
+              "very_short": 11578,
+              "short": 86572,
+              "medium": 138344,
+              "long": 27500
+            },
+            "unicode_profile": {
+              "ascii_only": 227240,
+              "contains_non_ascii": 36754
+            },
+            "suspicious_flags": {
+              "replacement_character": 0,
+              "unusual_control": 2,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 12333974,
+            "char_count_sum": 66552317,
+            "mean_words": 46.72066031803753,
+            "mean_chars": 252.0978393448336
+          },
+          "2": {
+            "rows": 131441,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 90,
+              "non_empty": 131351
+            },
+            "length_bins": {
+              "very_short": 3594,
+              "short": 33915,
+              "medium": 72588,
+              "long": 21254
+            },
+            "unicode_profile": {
+              "ascii_only": 115504,
+              "contains_non_ascii": 15847
+            },
+            "suspicious_flags": {
+              "replacement_character": 0,
+              "unusual_control": 2,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 7991562,
+            "char_count_sum": 43023110,
+            "mean_words": 60.84127262068808,
+            "mean_chars": 327.54307161726973
+          },
+          "3": {
+            "rows": 197131,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 106,
+              "non_empty": 197025
+            },
+            "length_bins": {
+              "very_short": 8432,
+              "short": 52762,
+              "medium": 104260,
+              "long": 31571
+            },
+            "unicode_profile": {
+              "ascii_only": 175464,
+              "contains_non_ascii": 21561
+            },
+            "suspicious_flags": {
+              "replacement_character": 0,
+              "unusual_control": 4,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 11996948,
+            "char_count_sum": 64297680,
+            "mean_words": 60.89048597893668,
+            "mean_chars": 326.342748382185
+          },
+          "4": {
+            "rows": 400387,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 221,
+              "non_empty": 400166
+            },
+            "length_bins": {
+              "very_short": 29055,
+              "short": 115355,
+              "medium": 192392,
+              "long": 63364
+            },
+            "unicode_profile": {
+              "ascii_only": 366646,
+              "contains_non_ascii": 33520
+            },
+            "suspicious_flags": {
+              "replacement_character": 0,
+              "unusual_control": 14,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 23866369,
+            "char_count_sum": 128432863,
+            "mean_words": 59.64117141386325,
+            "mean_chars": 320.9489636800728
+          },
+          "5": {
+            "rows": 2024128,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 2055,
+              "non_empty": 2022073
+            },
+            "length_bins": {
+              "very_short": 244557,
+              "short": 810554,
+              "medium": 801144,
+              "long": 165818
+            },
+            "unicode_profile": {
+              "ascii_only": 1860939,
+              "contains_non_ascii": 161134
+            },
+            "suspicious_flags": {
+              "replacement_character": 1,
+              "unusual_control": 28,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 76997550,
+            "char_count_sum": 417629531,
+            "mean_words": 38.07852139858452,
+            "mean_chars": 206.53533823951955
+          },
+          "missing": {
+            "rows": 0,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 0,
+              "non_empty": 0
+            },
+            "length_bins": {
+              "very_short": 0,
+              "short": 0,
+              "medium": 0,
+              "long": 0
+            },
+            "unicode_profile": {
+              "ascii_only": 0,
+              "contains_non_ascii": 0
+            },
+            "suspicious_flags": {
+              "replacement_character": 0,
+              "unusual_control": 0,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 0,
+            "char_count_sum": 0,
+            "mean_words": null,
+            "mean_chars": null
+          },
+          "null": {
+            "rows": 0,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 0,
+              "non_empty": 0
+            },
+            "length_bins": {
+              "very_short": 0,
+              "short": 0,
+              "medium": 0,
+              "long": 0
+            },
+            "unicode_profile": {
+              "ascii_only": 0,
+              "contains_non_ascii": 0
+            },
+            "suspicious_flags": {
+              "replacement_character": 0,
+              "unusual_control": 0,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 0,
+            "char_count_sum": 0,
+            "mean_words": null,
+            "mean_chars": null
+          },
+          "invalid": {
+            "rows": 0,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 0,
+              "non_empty": 0
+            },
+            "length_bins": {
+              "very_short": 0,
+              "short": 0,
+              "medium": 0,
+              "long": 0
+            },
+            "unicode_profile": {
+              "ascii_only": 0,
+              "contains_non_ascii": 0
+            },
+            "suspicious_flags": {
+              "replacement_character": 0,
+              "unusual_control": 0,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 0,
+            "char_count_sum": 0,
+            "mean_words": null,
+            "mean_chars": null
+          }
+        }
+      }
+    },
+    "Software.jsonl": {
+      "filename": "Software.jsonl",
+      "length": 4880181,
+      "present": {
+        "rating": 4880181,
+        "title": 4880181,
+        "text": 4880181,
+        "images": 4880181,
+        "asin": 4880181,
+        "parent_asin": 4880181,
+        "user_id": 4880181,
+        "timestamp": 4880181,
+        "helpful_vote": 4880181,
+        "verified_purchase": 4880181
+      },
+      "empty": {
+        "images": 4872339,
+        "text": 324
+      },
+      "text_audit": {
+        "version": 1,
+        "text_field": "text",
+        "word_count_method": "whitespace_split",
+        "char_count_method": "unicode_codepoints_after_strip",
+        "length_bin_definitions": {
+          "very_short": {
+            "min_words": 1,
+            "max_words": 3
+          },
+          "short": {
+            "min_words": 4,
+            "max_words": 20
+          },
+          "medium": {
+            "min_words": 21,
+            "max_words": 100
+          },
+          "long": {
+            "min_words": 101,
+            "max_words": null
+          }
+        },
+        "distribution_denominator": "non_empty_texts",
+        "blank_lines": 0,
+        "overall": {
+          "rows": 4880181,
+          "text_status": {
+            "missing": 0,
+            "null": 0,
+            "non_string": 0,
+            "blank": 324,
+            "non_empty": 4879857
+          },
+          "length_bins": {
+            "very_short": 759574,
+            "short": 2036635,
+            "medium": 1905655,
+            "long": 177993
+          },
+          "unicode_profile": {
+            "ascii_only": 4677538,
+            "contains_non_ascii": 202319
+          },
+          "suspicious_flags": {
+            "replacement_character": 8,
+            "unusual_control": 1506,
+            "surrogate_codepoint": 0
+          },
+          "word_count_sum": 128914447,
+          "char_count_sum": 683835770,
+          "mean_words": 26.417669001366228,
+          "mean_chars": 140.13438713470498
+        },
+        "by_rating": {
+          "1": {
+            "rows": 695854,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 39,
+              "non_empty": 695815
+            },
+            "length_bins": {
+              "very_short": 80497,
+              "short": 268706,
+              "medium": 297962,
+              "long": 48650
+            },
+            "unicode_profile": {
+              "ascii_only": 656250,
+              "contains_non_ascii": 39565
+            },
+            "suspicious_flags": {
+              "replacement_character": 0,
+              "unusual_control": 88,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 24837607,
+            "char_count_sum": 133716637,
+            "mean_words": 35.695705036539884,
+            "mean_chars": 192.17268526835437
+          },
+          "2": {
+            "rows": 239253,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 6,
+              "non_empty": 239247
+            },
+            "length_bins": {
+              "very_short": 21776,
+              "short": 80429,
+              "medium": 117460,
+              "long": 19582
+            },
+            "unicode_profile": {
+              "ascii_only": 229942,
+              "contains_non_ascii": 9305
+            },
+            "suspicious_flags": {
+              "replacement_character": 3,
+              "unusual_control": 34,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 9786519,
+            "char_count_sum": 52440189,
+            "mean_words": 40.90550351728548,
+            "mean_chars": 219.1884913917416
+          },
+          "3": {
+            "rows": 419356,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 23,
+              "non_empty": 419333
+            },
+            "length_bins": {
+              "very_short": 55369,
+              "short": 149171,
+              "medium": 191796,
+              "long": 22997
+            },
+            "unicode_profile": {
+              "ascii_only": 405763,
+              "contains_non_ascii": 13570
+            },
+            "suspicious_flags": {
+              "replacement_character": 2,
+              "unusual_control": 60,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 13981711,
+            "char_count_sum": 73877369,
+            "mean_words": 33.34273954112841,
+            "mean_chars": 176.1782855153303
+          },
+          "4": {
+            "rows": 857082,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 33,
+              "non_empty": 857049
+            },
+            "length_bins": {
+              "very_short": 106544,
+              "short": 343602,
+              "medium": 375033,
+              "long": 31870
+            },
+            "unicode_profile": {
+              "ascii_only": 833014,
+              "contains_non_ascii": 24035
+            },
+            "suspicious_flags": {
+              "replacement_character": 0,
+              "unusual_control": 218,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 24169772,
+            "char_count_sum": 127793259,
+            "mean_words": 28.201155359845238,
+            "mean_chars": 149.108462876685
+          },
+          "5": {
+            "rows": 2668636,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 223,
+              "non_empty": 2668413
+            },
+            "length_bins": {
+              "very_short": 495388,
+              "short": 1194727,
+              "medium": 923404,
+              "long": 54894
+            },
+            "unicode_profile": {
+              "ascii_only": 2552569,
+              "contains_non_ascii": 115844
+            },
+            "suspicious_flags": {
+              "replacement_character": 3,
+              "unusual_control": 1106,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 56138838,
+            "char_count_sum": 296008316,
+            "mean_words": 21.038286801930585,
+            "mean_chars": 110.93047290655532
+          },
+          "missing": {
+            "rows": 0,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 0,
+              "non_empty": 0
+            },
+            "length_bins": {
+              "very_short": 0,
+              "short": 0,
+              "medium": 0,
+              "long": 0
+            },
+            "unicode_profile": {
+              "ascii_only": 0,
+              "contains_non_ascii": 0
+            },
+            "suspicious_flags": {
+              "replacement_character": 0,
+              "unusual_control": 0,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 0,
+            "char_count_sum": 0,
+            "mean_words": null,
+            "mean_chars": null
+          },
+          "null": {
+            "rows": 0,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 0,
+              "non_empty": 0
+            },
+            "length_bins": {
+              "very_short": 0,
+              "short": 0,
+              "medium": 0,
+              "long": 0
+            },
+            "unicode_profile": {
+              "ascii_only": 0,
+              "contains_non_ascii": 0
+            },
+            "suspicious_flags": {
+              "replacement_character": 0,
+              "unusual_control": 0,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 0,
+            "char_count_sum": 0,
+            "mean_words": null,
+            "mean_chars": null
+          },
+          "invalid": {
+            "rows": 0,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 0,
+              "non_empty": 0
+            },
+            "length_bins": {
+              "very_short": 0,
+              "short": 0,
+              "medium": 0,
+              "long": 0
+            },
+            "unicode_profile": {
+              "ascii_only": 0,
+              "contains_non_ascii": 0
+            },
+            "suspicious_flags": {
+              "replacement_character": 0,
+              "unusual_control": 0,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 0,
+            "char_count_sum": 0,
+            "mean_words": null,
+            "mean_chars": null
+          }
+        }
+      }
+    },
+    "Subscription_Boxes.jsonl": {
+      "filename": "Subscription_Boxes.jsonl",
+      "length": 16216,
+      "present": {
+        "rating": 16216,
+        "title": 16216,
+        "text": 16216,
+        "images": 16216,
+        "asin": 16216,
+        "parent_asin": 16216,
+        "user_id": 16216,
+        "timestamp": 16216,
+        "helpful_vote": 16216,
+        "verified_purchase": 16216
+      },
+      "empty": {
+        "images": 14760,
+        "text": 11
+      },
+      "text_audit": {
+        "version": 1,
+        "text_field": "text",
+        "word_count_method": "whitespace_split",
+        "char_count_method": "unicode_codepoints_after_strip",
+        "length_bin_definitions": {
+          "very_short": {
+            "min_words": 1,
+            "max_words": 3
+          },
+          "short": {
+            "min_words": 4,
+            "max_words": 20
+          },
+          "medium": {
+            "min_words": 21,
+            "max_words": 100
+          },
+          "long": {
+            "min_words": 101,
+            "max_words": null
+          }
+        },
+        "distribution_denominator": "non_empty_texts",
+        "blank_lines": 0,
+        "overall": {
+          "rows": 16216,
+          "text_status": {
+            "missing": 0,
+            "null": 0,
+            "non_string": 0,
+            "blank": 11,
+            "non_empty": 16205
+          },
+          "length_bins": {
+            "very_short": 748,
+            "short": 5121,
+            "medium": 8535,
+            "long": 1801
+          },
+          "unicode_profile": {
+            "ascii_only": 12829,
+            "contains_non_ascii": 3376
+          },
+          "suspicious_flags": {
+            "replacement_character": 0,
+            "unusual_control": 0,
+            "surrogate_codepoint": 0
+          },
+          "word_count_sum": 769403,
+          "char_count_sum": 4121221,
+          "mean_words": 47.47935822277075,
+          "mean_chars": 254.31786485652577
+        },
+        "by_rating": {
+          "1": {
+            "rows": 2576,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 0,
+              "non_empty": 2576
+            },
+            "length_bins": {
+              "very_short": 75,
+              "short": 731,
+              "medium": 1407,
+              "long": 363
+            },
+            "unicode_profile": {
+              "ascii_only": 1948,
+              "contains_non_ascii": 628
+            },
+            "suspicious_flags": {
+              "replacement_character": 0,
+              "unusual_control": 0,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 138341,
+            "char_count_sum": 748106,
+            "mean_words": 53.703804347826086,
+            "mean_chars": 290.4138198757764
+          },
+          "2": {
+            "rows": 1491,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 0,
+              "non_empty": 1491
+            },
+            "length_bins": {
+              "very_short": 23,
+              "short": 350,
+              "medium": 862,
+              "long": 256
+            },
+            "unicode_profile": {
+              "ascii_only": 1151,
+              "contains_non_ascii": 340
+            },
+            "suspicious_flags": {
+              "replacement_character": 0,
+              "unusual_control": 0,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 92020,
+            "char_count_sum": 493422,
+            "mean_words": 61.71696847753186,
+            "mean_chars": 330.93360160965796
+          },
+          "3": {
+            "rows": 1752,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 1,
+              "non_empty": 1751
+            },
+            "length_bins": {
+              "very_short": 36,
+              "short": 445,
+              "medium": 1021,
+              "long": 249
+            },
+            "unicode_profile": {
+              "ascii_only": 1356,
+              "contains_non_ascii": 395
+            },
+            "suspicious_flags": {
+              "replacement_character": 0,
+              "unusual_control": 0,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 99429,
+            "char_count_sum": 528652,
+            "mean_words": 56.7841233580811,
+            "mean_chars": 301.9143346659052
+          },
+          "4": {
+            "rows": 1663,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 0,
+              "non_empty": 1663
+            },
+            "length_bins": {
+              "very_short": 54,
+              "short": 433,
+              "medium": 951,
+              "long": 225
+            },
+            "unicode_profile": {
+              "ascii_only": 1340,
+              "contains_non_ascii": 323
+            },
+            "suspicious_flags": {
+              "replacement_character": 0,
+              "unusual_control": 0,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 90454,
+            "char_count_sum": 479246,
+            "mean_words": 54.39206253758268,
+            "mean_chars": 288.18159951894165
+          },
+          "5": {
+            "rows": 8734,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 10,
+              "non_empty": 8724
+            },
+            "length_bins": {
+              "very_short": 560,
+              "short": 3162,
+              "medium": 4294,
+              "long": 708
+            },
+            "unicode_profile": {
+              "ascii_only": 7034,
+              "contains_non_ascii": 1690
+            },
+            "suspicious_flags": {
+              "replacement_character": 0,
+              "unusual_control": 0,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 349159,
+            "char_count_sum": 1871795,
+            "mean_words": 40.02281063732233,
+            "mean_chars": 214.55696928014672
+          },
+          "missing": {
+            "rows": 0,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 0,
+              "non_empty": 0
+            },
+            "length_bins": {
+              "very_short": 0,
+              "short": 0,
+              "medium": 0,
+              "long": 0
+            },
+            "unicode_profile": {
+              "ascii_only": 0,
+              "contains_non_ascii": 0
+            },
+            "suspicious_flags": {
+              "replacement_character": 0,
+              "unusual_control": 0,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 0,
+            "char_count_sum": 0,
+            "mean_words": null,
+            "mean_chars": null
+          },
+          "null": {
+            "rows": 0,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 0,
+              "non_empty": 0
+            },
+            "length_bins": {
+              "very_short": 0,
+              "short": 0,
+              "medium": 0,
+              "long": 0
+            },
+            "unicode_profile": {
+              "ascii_only": 0,
+              "contains_non_ascii": 0
+            },
+            "suspicious_flags": {
+              "replacement_character": 0,
+              "unusual_control": 0,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 0,
+            "char_count_sum": 0,
+            "mean_words": null,
+            "mean_chars": null
+          },
+          "invalid": {
+            "rows": 0,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 0,
+              "non_empty": 0
+            },
+            "length_bins": {
+              "very_short": 0,
+              "short": 0,
+              "medium": 0,
+              "long": 0
+            },
+            "unicode_profile": {
+              "ascii_only": 0,
+              "contains_non_ascii": 0
+            },
+            "suspicious_flags": {
+              "replacement_character": 0,
+              "unusual_control": 0,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 0,
+            "char_count_sum": 0,
+            "mean_words": null,
+            "mean_chars": null
+          }
+        }
+      }
+    },
+    "Toys_and_Games.jsonl": {
+      "filename": "Toys_and_Games.jsonl",
+      "length": 16260406,
+      "present": {
+        "rating": 16260406,
+        "title": 16260406,
+        "text": 16260406,
+        "images": 16260406,
+        "asin": 16260406,
+        "parent_asin": 16260406,
+        "user_id": 16260406,
+        "timestamp": 16260406,
+        "helpful_vote": 16260406,
+        "verified_purchase": 16260406
+      },
+      "empty": {
+        "images": 15138550,
+        "text": 25394,
+        "title": 1
+      },
+      "text_audit": {
+        "version": 1,
+        "text_field": "text",
+        "word_count_method": "whitespace_split",
+        "char_count_method": "unicode_codepoints_after_strip",
+        "length_bin_definitions": {
+          "very_short": {
+            "min_words": 1,
+            "max_words": 3
+          },
+          "short": {
+            "min_words": 4,
+            "max_words": 20
+          },
+          "medium": {
+            "min_words": 21,
+            "max_words": 100
+          },
+          "long": {
+            "min_words": 101,
+            "max_words": null
+          }
+        },
+        "distribution_denominator": "non_empty_texts",
+        "blank_lines": 0,
+        "overall": {
+          "rows": 16260406,
+          "text_status": {
+            "missing": 0,
+            "null": 0,
+            "non_string": 0,
+            "blank": 25394,
+            "non_empty": 16235012
+          },
+          "length_bins": {
+            "very_short": 1688270,
+            "short": 6901794,
+            "medium": 6820204,
+            "long": 824744
+          },
+          "unicode_profile": {
+            "ascii_only": 14324751,
+            "contains_non_ascii": 1910261
+          },
+          "suspicious_flags": {
+            "replacement_character": 12,
+            "unusual_control": 78,
+            "surrogate_codepoint": 0
+          },
+          "word_count_sum": 514277416,
+          "char_count_sum": 2730056976,
+          "mean_words": 31.677057953514293,
+          "mean_chars": 168.1586053647512
+        },
+        "by_rating": {
+          "1": {
+            "rows": 1631131,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 3901,
+              "non_empty": 1627230
+            },
+            "length_bins": {
+              "very_short": 73434,
+              "short": 621834,
+              "medium": 848400,
+              "long": 83562
+            },
+            "unicode_profile": {
+              "ascii_only": 1304973,
+              "contains_non_ascii": 322257
+            },
+            "suspicious_flags": {
+              "replacement_character": 0,
+              "unusual_control": 7,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 57596418,
+            "char_count_sum": 307477349,
+            "mean_words": 35.3953761914419,
+            "mean_chars": 188.95752229248478
+          },
+          "2": {
+            "rows": 767908,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 994,
+              "non_empty": 766914
+            },
+            "length_bins": {
+              "very_short": 25331,
+              "short": 250205,
+              "medium": 430997,
+              "long": 60381
+            },
+            "unicode_profile": {
+              "ascii_only": 628506,
+              "contains_non_ascii": 138408
+            },
+            "suspicious_flags": {
+              "replacement_character": 1,
+              "unusual_control": 2,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 32775108,
+            "char_count_sum": 173977159,
+            "mean_words": 42.73635375022493,
+            "mean_chars": 226.8535442044349
+          },
+          "3": {
+            "rows": 1103648,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 1153,
+              "non_empty": 1102495
+            },
+            "length_bins": {
+              "very_short": 48610,
+              "short": 360941,
+              "medium": 599513,
+              "long": 93431
+            },
+            "unicode_profile": {
+              "ascii_only": 925509,
+              "contains_non_ascii": 176986
+            },
+            "suspicious_flags": {
+              "replacement_character": 0,
+              "unusual_control": 7,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 48119690,
+            "char_count_sum": 253888214,
+            "mean_words": 43.64617526610098,
+            "mean_chars": 230.28513870811204
+          },
+          "4": {
+            "rows": 1797010,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 1594,
+              "non_empty": 1795416
+            },
+            "length_bins": {
+              "very_short": 133015,
+              "short": 593610,
+              "medium": 896673,
+              "long": 172118
+            },
+            "unicode_profile": {
+              "ascii_only": 1584208,
+              "contains_non_ascii": 211208
+            },
+            "suspicious_flags": {
+              "replacement_character": 0,
+              "unusual_control": 12,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 79821276,
+            "char_count_sum": 422122171,
+            "mean_words": 44.45837399243406,
+            "mean_chars": 235.1110667388505
+          },
+          "5": {
+            "rows": 10960709,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 17752,
+              "non_empty": 10942957
+            },
+            "length_bins": {
+              "very_short": 1407880,
+              "short": 5075204,
+              "medium": 4044621,
+              "long": 415252
+            },
+            "unicode_profile": {
+              "ascii_only": 9881555,
+              "contains_non_ascii": 1061402
+            },
+            "suspicious_flags": {
+              "replacement_character": 11,
+              "unusual_control": 50,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 295964924,
+            "char_count_sum": 1572592083,
+            "mean_words": 27.046156171499167,
+            "mean_chars": 143.70814789823262
+          },
+          "missing": {
+            "rows": 0,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 0,
+              "non_empty": 0
+            },
+            "length_bins": {
+              "very_short": 0,
+              "short": 0,
+              "medium": 0,
+              "long": 0
+            },
+            "unicode_profile": {
+              "ascii_only": 0,
+              "contains_non_ascii": 0
+            },
+            "suspicious_flags": {
+              "replacement_character": 0,
+              "unusual_control": 0,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 0,
+            "char_count_sum": 0,
+            "mean_words": null,
+            "mean_chars": null
+          },
+          "null": {
+            "rows": 0,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 0,
+              "non_empty": 0
+            },
+            "length_bins": {
+              "very_short": 0,
+              "short": 0,
+              "medium": 0,
+              "long": 0
+            },
+            "unicode_profile": {
+              "ascii_only": 0,
+              "contains_non_ascii": 0
+            },
+            "suspicious_flags": {
+              "replacement_character": 0,
+              "unusual_control": 0,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 0,
+            "char_count_sum": 0,
+            "mean_words": null,
+            "mean_chars": null
+          },
+          "invalid": {
+            "rows": 0,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 0,
+              "non_empty": 0
+            },
+            "length_bins": {
+              "very_short": 0,
+              "short": 0,
+              "medium": 0,
+              "long": 0
+            },
+            "unicode_profile": {
+              "ascii_only": 0,
+              "contains_non_ascii": 0
+            },
+            "suspicious_flags": {
+              "replacement_character": 0,
+              "unusual_control": 0,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 0,
+            "char_count_sum": 0,
+            "mean_words": null,
+            "mean_chars": null
+          }
+        }
+      }
+    },
+    "Video_Games.jsonl": {
+      "filename": "Video_Games.jsonl",
+      "length": 4624615,
+      "present": {
+        "rating": 4624615,
+        "title": 4624615,
+        "text": 4624615,
+        "images": 4624615,
+        "asin": 4624615,
+        "parent_asin": 4624615,
+        "user_id": 4624615,
+        "timestamp": 4624615,
+        "helpful_vote": 4624615,
+        "verified_purchase": 4624615
+      },
+      "empty": {
+        "images": 4419914,
+        "text": 3618,
+        "title": 1
+      },
+      "text_audit": {
+        "version": 1,
+        "text_field": "text",
+        "word_count_method": "whitespace_split",
+        "char_count_method": "unicode_codepoints_after_strip",
+        "length_bin_definitions": {
+          "very_short": {
+            "min_words": 1,
+            "max_words": 3
+          },
+          "short": {
+            "min_words": 4,
+            "max_words": 20
+          },
+          "medium": {
+            "min_words": 21,
+            "max_words": 100
+          },
+          "long": {
+            "min_words": 101,
+            "max_words": null
+          }
+        },
+        "distribution_denominator": "non_empty_texts",
+        "blank_lines": 0,
+        "overall": {
+          "rows": 4624615,
+          "text_status": {
+            "missing": 0,
+            "null": 0,
+            "non_string": 0,
+            "blank": 3618,
+            "non_empty": 4620997
+          },
+          "length_bins": {
+            "very_short": 519001,
+            "short": 1517831,
+            "medium": 1958296,
+            "long": 625869
+          },
+          "unicode_profile": {
+            "ascii_only": 4242061,
+            "contains_non_ascii": 378936
+          },
+          "suspicious_flags": {
+            "replacement_character": 59,
+            "unusual_control": 113,
+            "surrogate_codepoint": 0
+          },
+          "word_count_sum": 261638589,
+          "char_count_sum": 1422504308,
+          "mean_words": 56.61951068135296,
+          "mean_chars": 307.8349343226148
+        },
+        "by_rating": {
+          "1": {
+            "rows": 589519,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 458,
+              "non_empty": 589061
+            },
+            "length_bins": {
+              "very_short": 23771,
+              "short": 182801,
+              "medium": 302502,
+              "long": 79987
+            },
+            "unicode_profile": {
+              "ascii_only": 515746,
+              "contains_non_ascii": 73315
+            },
+            "suspicious_flags": {
+              "replacement_character": 3,
+              "unusual_control": 9,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 32936439,
+            "char_count_sum": 178901839,
+            "mean_words": 55.913460575390324,
+            "mean_chars": 303.7068130465266
+          },
+          "2": {
+            "rows": 249878,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 103,
+              "non_empty": 249775
+            },
+            "length_bins": {
+              "very_short": 5222,
+              "short": 52891,
+              "medium": 131082,
+              "long": 60580
+            },
+            "unicode_profile": {
+              "ascii_only": 223727,
+              "contains_non_ascii": 26048
+            },
+            "suspicious_flags": {
+              "replacement_character": 6,
+              "unusual_control": 3,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 21929975,
+            "char_count_sum": 119751261,
+            "mean_words": 87.79891902712441,
+            "mean_chars": 479.4365368831949
+          },
+          "3": {
+            "rows": 340086,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 117,
+              "non_empty": 339969
+            },
+            "length_bins": {
+              "very_short": 13689,
+              "short": 73644,
+              "medium": 171234,
+              "long": 81402
+            },
+            "unicode_profile": {
+              "ascii_only": 308671,
+              "contains_non_ascii": 31298
+            },
+            "suspicious_flags": {
+              "replacement_character": 10,
+              "unusual_control": 5,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 31212322,
+            "char_count_sum": 169996264,
+            "mean_words": 91.80931790839753,
+            "mean_chars": 500.03460315499353
+          },
+          "4": {
+            "rows": 617251,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 259,
+              "non_empty": 616992
+            },
+            "length_bins": {
+              "very_short": 43392,
+              "short": 142410,
+              "medium": 292220,
+              "long": 138970
+            },
+            "unicode_profile": {
+              "ascii_only": 570954,
+              "contains_non_ascii": 46038
+            },
+            "suspicious_flags": {
+              "replacement_character": 18,
+              "unusual_control": 26,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 53803578,
+            "char_count_sum": 293326747,
+            "mean_words": 87.20303990975572,
+            "mean_chars": 475.41418203153364
+          },
+          "5": {
+            "rows": 2827881,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 2681,
+              "non_empty": 2825200
+            },
+            "length_bins": {
+              "very_short": 432927,
+              "short": 1066085,
+              "medium": 1061258,
+              "long": 264930
+            },
+            "unicode_profile": {
+              "ascii_only": 2622963,
+              "contains_non_ascii": 202237
+            },
+            "suspicious_flags": {
+              "replacement_character": 22,
+              "unusual_control": 70,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 121756275,
+            "char_count_sum": 660528197,
+            "mean_words": 43.09651529095285,
+            "mean_chars": 233.79873885034687
+          },
+          "missing": {
+            "rows": 0,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 0,
+              "non_empty": 0
+            },
+            "length_bins": {
+              "very_short": 0,
+              "short": 0,
+              "medium": 0,
+              "long": 0
+            },
+            "unicode_profile": {
+              "ascii_only": 0,
+              "contains_non_ascii": 0
+            },
+            "suspicious_flags": {
+              "replacement_character": 0,
+              "unusual_control": 0,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 0,
+            "char_count_sum": 0,
+            "mean_words": null,
+            "mean_chars": null
+          },
+          "null": {
+            "rows": 0,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 0,
+              "non_empty": 0
+            },
+            "length_bins": {
+              "very_short": 0,
+              "short": 0,
+              "medium": 0,
+              "long": 0
+            },
+            "unicode_profile": {
+              "ascii_only": 0,
+              "contains_non_ascii": 0
+            },
+            "suspicious_flags": {
+              "replacement_character": 0,
+              "unusual_control": 0,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 0,
+            "char_count_sum": 0,
+            "mean_words": null,
+            "mean_chars": null
+          },
+          "invalid": {
+            "rows": 0,
+            "text_status": {
+              "missing": 0,
+              "null": 0,
+              "non_string": 0,
+              "blank": 0,
+              "non_empty": 0
+            },
+            "length_bins": {
+              "very_short": 0,
+              "short": 0,
+              "medium": 0,
+              "long": 0
+            },
+            "unicode_profile": {
+              "ascii_only": 0,
+              "contains_non_ascii": 0
+            },
+            "suspicious_flags": {
+              "replacement_character": 0,
+              "unusual_control": 0,
+              "surrogate_codepoint": 0
+            },
+            "word_count_sum": 0,
+            "char_count_sum": 0,
+            "mean_words": null,
+            "mean_chars": null
+          }
+        }
+      }
+    }
+  }
+}
