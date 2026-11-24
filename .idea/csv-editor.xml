@@ -3,77 +3,49 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
-        <entry key="/phase1/meta_field_by_category.csv">
+        <entry key="/pairs_to_check.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/phase1/meta_fill_rates.csv">
+        <entry key="/reports/cluster_stability.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/phase1/meta_presence.csv">
+        <entry key="/reports/cluster_summary.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/phase1/meta_quality_examples.csv">
+        <entry key="/reports/cluster_vs_category.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/phase1/meta_quality_report.csv">
+        <entry key="/reports/k_selection.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/phase1/meta_report.csv">
+        <entry key="/reports/pair_validation.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/phase1/review_fill_rates.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="/phase1/review_presence.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="/phase1/review_quality_examples.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="/phase1/review_quality_report.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="/phase1/review_report.csv">
+        <entry key="/top_pairs.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
